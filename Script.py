@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/mr_MKN>𝙈𝙧.𝙈𝙆𝙉 𝙏𝙂</a>
+✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/King_suriya12>𝗦𝗨𝗥𝗬𝗔 𝗥𝗔𝗦𝗜𝗚𝗔𝗡</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
@@ -10,11 +10,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 👉 :<a href=https://t.me/Gowthaman2008>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>"""
+<b>𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁:</b>
+- 𝙳𝚎𝚟 1 : <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +27,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/movies_tamizhaass https://t.me/movies_tamizhaass</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Gowthaman2008><b>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -188,7 +187,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_MKN>Mr.MKN TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
