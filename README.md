@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-  <b> 𝗠𝗢𝗩𝗜𝗘𝗦 𝗘𝗡𝗧𝗘𝗥𝗧𝗔𝗜𝗡𝗠𝗘𝗡𝗧 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧! </b>
+  <b> 𝗠𝗢𝗩𝗜𝗘𝗦 𝗘𝗡𝗧𝗘𝗥𝗧𝗔𝗜𝗡𝗠𝗘𝗡𝗧 𝗕𝗢𝗧! </b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
