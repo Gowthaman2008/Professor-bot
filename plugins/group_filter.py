@@ -277,8 +277,8 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         cap = f"
-🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ :`{search}`
-⚡ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {user}
+🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ :{search}
+⚡ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :{user}
 
 ❤️Jᴏɪɴ » @Movies_Tamizhaass"
     if imdb and imdb.get('poster'):
