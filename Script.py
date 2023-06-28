@@ -3,6 +3,7 @@ class script(object):
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/King_suriya12>𝗦𝗨𝗥𝗬𝗔 𝗥𝗔𝗦𝗜𝗚𝗔𝗡</a>
+✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Gowthaman2008>𝐆𝐎𝐖𝐓𝐇𝐀𝐌𝐀𝐍</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
@@ -13,7 +14,8 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 👉 :<a href=https://t.me/Gowthaman2008>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 
 <b>𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁:</b>
-- 𝙳𝚎𝚟 1 : <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗</a>"""
+- 𝙳𝚎𝚟 1 : <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗</a>
+𝚃𝙾 𝙼𝙰𝙺𝙴 𝙱𝙾𝚃 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 😇 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁👆 𝙲𝚑𝚎𝚊𝚙 𝙿𝚛𝚒𝚌𝚎❤️"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
