@@ -276,8 +276,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"
-🔰𝐓𝐡𝐞 𝐑𝐞𝐬𝐮𝐥𝐭 𝐅𝐨𝐫 :{search}
+        cap = f"𝐓𝐡𝐞 𝐑𝐞𝐬𝐮𝐥𝐭 𝐅𝐨𝐫 :`{search}`✅
 ⚡𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐁𝐲 :{user}
 
 ❤️𝐉𝐨𝐢𝐧 » @Movies_Tamizhaass"
