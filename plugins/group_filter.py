@@ -277,7 +277,7 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         cap = f"
-**🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ :**<code> {search} </code>
+**🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ :**`{search}` </code>
 **⚡ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {user}
 
 ❤️Jᴏɪɴ » @Movies_Tamizhaass**"
