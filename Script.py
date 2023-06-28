@@ -17,8 +17,8 @@ class script(object):
 📍ғᴏʀ ʀᴇᴘᴏ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ
 📍ᴄʜᴇᴀᴘ ᴘʀɪᴄᴇ
 
-⚜️ Dᴏɴᴀᴛᴇ Dᴇᴠᴇʟᴏᴘᴇʀ : 
-👉<a href=https://paytm.me/A-3pR8p>ᴄʟɪᴄᴋ ʜᴇʀᴇ💛</a>👈
+❣️ Dᴏɴᴀᴛᴇ Dᴇᴠᴇʟᴏᴘᴇʀ : 
+👉<a href=https://paytm.me/A-3pR8p>ᴄʟɪᴄᴋ ʜᴇʀᴇ 🍿</a>👈
 </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
