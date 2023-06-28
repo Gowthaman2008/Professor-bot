@@ -276,7 +276,11 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"Here is what i found for your query {search}"
+        cap = f"
+🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ : {search}
+⚡ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {user}
+
+❤️Jᴏɪɴ » @Movies_Tamizhaass"
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
@@ -284,7 +288,7 @@ async def auto_filter(client, msg, spoll=False):
             await hehe.delete()            
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
             pic = imdb.get('poster')
-            poster = pic.replace('.jpg', "https://graph.org/file/5405bae121a9b5b40a342.jpg")
+            poster = pic.replace('.jpg', "._V1_UX360")
             hmm = await message.reply_photo(photo=poster, caption=cap, reply_markup=InlineKeyboardMarkup(btn))           
             await asyncio.sleep(IMDB_DELET_TIME)
             await hmm.delete()            
