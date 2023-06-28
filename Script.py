@@ -12,8 +12,7 @@ class script(object):
 
     SOURCE_TXT = """
 <b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a></b>
-
-<b>🎈NOTE:
+<b>
 📍ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ
 📍ғᴏʀ ʀᴇᴘᴏ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ
 📍ᴄʜᴇᴀᴘ ᴘʀɪᴄᴇ </b>"""
