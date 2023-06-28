@@ -277,10 +277,10 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         cap = f"
-**🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ :`{search}`
+🔰ᴛʜᴇ ʀᴇsᴜʟᴛ ꜰᴏʀ :`{search}`
 ⚡ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {user}
 
-❤️Jᴏɪɴ » @Movies_Tamizhaass**"
+❤️Jᴏɪɴ » @Movies_Tamizhaass"
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
