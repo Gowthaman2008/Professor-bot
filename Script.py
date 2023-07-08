@@ -20,7 +20,7 @@ class script(object):
 📍𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴
 
 🎭 𝙳𝙾𝙽𝙰𝚃𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : 
-     👉<a href=https://paytm.me/A-3pR8p>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>👈
+      👉<a href=https://paytm.me/A-3pR8p>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>👈
 </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
