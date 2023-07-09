@@ -69,26 +69,18 @@ async def pm_next_page(bot, query):
     if n_offset == 0:
         btn.append(
             [InlineKeyboardButton("⏪ Back", callback_data=f"pmnext_{req}_{key}_{off_set}"),
-             InlineKeyboardButton(f"◽Pages {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="pages")
-             ],[                         
-             InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
-            ]
+             InlineKeyboardButton(f"◽Pages {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="page")]
         )
     elif off_set is None:
         btn.append(
             [InlineKeyboardButton(f"◽ {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="pages"),
-             InlineKeyboardButton("Next ⏩", callback_data=f"pmnext_{req}_{key}_{n_offset}")
-            ],[
-            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
-            ])
+             InlineKeyboardButton("Next ⏩", callback_data=f"pmnext_{req}_{key}_{n_offset}")])
     else:
         btn.append(
             [
                 InlineKeyboardButton("⏪ Back", callback_data=f"pmnext_{req}_{key}_{off_set}"),
                 InlineKeyboardButton(f"◽ {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="pages"),
                 InlineKeyboardButton("Next ⏩", callback_data=f"pmnext_{req}_{key}_{n_offset}")
-            ],[
-                InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
             ],
         )
     try:
@@ -157,8 +149,6 @@ async def pm_AutoFilter(client, msg, pmspoll=False):
         btn.append(
             [InlineKeyboardButton(text=f"◽Page 1/{math.ceil(int(total_results) / 6)}", callback_data="pages"),
             InlineKeyboardButton(text="Next ⏩", callback_data=f"pmnext_{req}_{key}_{offset}")
-            ],[
-            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
             ]
         )
     else:
