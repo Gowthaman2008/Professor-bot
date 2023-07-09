@@ -25,7 +25,7 @@ async def start(client, message):
             InlineKeyboardButton('💥 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 💥', url=f'https://t.me/{SUPPORT_CHAT}'),
             InlineKeyboardButton('⚙️ 𝙷𝙴𝙻𝙿 ⚙️', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],[
-            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
+            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/HTD_Tn_links/21')
             ]]
         await message.reply(START_MESSAGE.format(user=message.from_user.mention if message.from_user else message.chat.title, bot=temp.B_LINK), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)                    
         await asyncio.sleep(2) 
@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("💥 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 💥", url="https://t.me/movies_tamizhaass")
             ],[      
-            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
+            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/HTD_Tn_links/21')
             ],[
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
@@ -96,7 +96,7 @@ async def start(client, message):
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("💥 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 💥", url="https://t.me/movies_tamizhaass")
             ],[      
-            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/Gowthaman2008')
+            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/HTD_Tn_links/21')
             ],[
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
