@@ -610,7 +610,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons= [[
             InlineKeyboardButton('💙 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 💙', callback_data='source')
             ],[
-            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')
+            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
+            InlineKeyboardButton('⚡ 𝙳𝙾𝙽𝙰𝚃𝙴 ⚡', url='https://t.me/Gowthaman2008')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)        
         await query.edit_message_media(
@@ -619,7 +620,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ✌️', url='https://t.me/Gowthaman2008')
+            InlineKeyboardButton('❣️ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ❣️', url='https://t.me/Gowthaman2008')
             ],[
             InlineKeyboardButton('👩‍🦯 𝙱𝙰𝙲𝙺', callback_data='about')
         ]]
