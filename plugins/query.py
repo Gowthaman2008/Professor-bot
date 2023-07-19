@@ -534,8 +534,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
             ],[
-            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/HTD_Tn_links/21')
-            ],[
             InlineKeyboardButton('⚜️ 𝙹𝙾𝙸𝙽 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ⚜️', url='https://t.me/movies_tamizhaass')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -599,6 +597,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝚈𝚃-𝙳𝙻', callback_data='ytdl')
             ],[
             InlineKeyboardButton('❣️ 𝙰𝙳𝙼𝙸𝙽 𝙿𝙰𝙽𝙴𝙻 ❣️', callback_data='admin')
+            ],[
+            InlineKeyboardButton('🍿 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🍿', url='https://t.me/HTD_Tn_links/21')
             ],[
             InlineKeyboardButton('📊 𝚂𝚃𝙰𝚃𝚄𝚂 📊', callback_data='stats'),
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')  
