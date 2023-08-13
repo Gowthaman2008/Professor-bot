@@ -62,7 +62,7 @@ async def pm_next_page(bot, query):
             
      btn.insert(
                 [
-                    InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/c/1918380439/24")
+                    InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/HTD_Tn_links/21")
                 ]
             )
 
