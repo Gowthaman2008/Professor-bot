@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝚟3.0.0
 
-⚡ POWERED BY››<a href=https://t.me/GM_Botzz>Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
+⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
 
     SOURCE_TXT = """
 <b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a>
@@ -21,7 +21,7 @@ class script(object):
 📍𝙲𝙷𝙴𝙰𝙿 𝙿𝚁𝙸𝙲𝙴
 📍𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴
 
-⚡ POWERED BY››<a href=https://t.me/GM_Botzz>Gᴍ Bᴏᴛᴢᴢ™</a>
+⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>
   </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
@@ -38,7 +38,7 @@ class script(object):
 
 <code>/batch https://t.me/movies_tamizhaass https://t.me/movies_tamizhaass</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Gowthaman2008><b>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ››  <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -84,7 +84,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Gowthaman2008>𝙶𝙾𝚆𝚃𝙷𝙰𝙼𝙰𝙽⚡</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
