@@ -18,6 +18,8 @@ class script(object):
 📍𝚃𝙾 𝙱𝚄𝚈 𝙳𝙱
 📍𝙲𝙷𝙴𝙰𝙿 𝙿𝚁𝙸𝙲𝙴
 📍𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴
+
+⚡ POWERED BY››<a href=https://t.me/GM_Botzz>Gᴍ Bᴏᴛᴢᴢ™</a>
   </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
