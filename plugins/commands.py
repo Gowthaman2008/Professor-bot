@@ -87,14 +87,7 @@ async def start(client, message):
             text=FORCE_SUB_TEXT,
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode=enums.ParseMode.DEFAULT
-            )
-        return
-        btn = [
-            [
-        InlineKeyboardButton(
-                    "🤖 Join Movies Channel", url='https://t.me/HTD_Tn_links/21')
-            ]
-              ]
+        )
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
