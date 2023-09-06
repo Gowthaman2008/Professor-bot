@@ -154,7 +154,7 @@ async def pm_AutoFilter(client, msg, pmspoll=False):
         btn.append([
             InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/HTD_Tn_links/21")
             ],[
-            [InlineKeyboardButton(text=f"◽Page 1/{math.ceil(int(total_results) / 6)}", callback_data="pages"),
+            InlineKeyboardButton(text=f"◽Page 1/{math.ceil(int(total_results) / 6)}", callback_data="pages"),
             InlineKeyboardButton(text="Next ⏩", callback_data=f"pmnext_{req}_{key}_{offset}")
             ])
     else:
