@@ -151,7 +151,7 @@ async def pm_AutoFilter(client, msg, pmspoll=False):
         key = f"{message.id}"
         temp.PM_BUTTONS[key] = search
         req = message.from_user.id if message.from_user else 0
-        btn.append(
+        btn.append([
             InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/HTD_Tn_links/21")
             ],[
             [InlineKeyboardButton(text=f"◽Page 1/{math.ceil(int(total_results) / 6)}", callback_data="pages"),
