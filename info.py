@@ -26,7 +26,7 @@ API_HASH = environ['API_HASH']
 BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 300))
+CACHE_TIME = int(environ.get('CACHE_TIME', 120))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 PICS = (environ.get('PICS' ,'https://graph.org/file/01176bf016d192110f270.jpg https://graph.org/file/f6c0456498c1fe7a90d4d.jpg https://graph.org/file/2ce9637596de99d308d34.jpg https://graph.org/file/6898d51ae15b93193cc4f.jpg https://graph.org/file/8ac0e26a647f1e7d96b4e.jpg https://graph.org/file/72856707d4c53b85772ce.jpg https://graph.org/file/bc1b74f0cbd2f970c1e3e.jpg https://graph.org/file/82d2370f60673e0b3537c.jpg https://graph.org/file/fb0a1375b9ce5e4644153.jpg https://graph.org/file/9485d31eb716d4fdf8c09.jpg https://graph.org/file/06a740b79ff056bec5d83.jpg https://graph.org/file/a6417d47c6403692c90b4.jpg https://graph.org/file/0f568df993066808d51be.jpg https://graph.org/file/9c3ae0e7d1711c367d534.jpg https://graph.org/file/4be7d2a78f01196f79733.jpg https://graph.org/file/4823e822308a83d9c4258.jpg')).split()
 BOT_START_TIME = time()
@@ -63,7 +63,7 @@ SHORT_URL = environ.get("SHORT_URL")
 SHORT_API = environ.get("SHORT_API")
 
 # Others
-IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
+IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "120"))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movies_tamizhaass')
 P_TTI_SHOW_OFF = is_enabled(environ.get('P_TTI_SHOW_OFF', "True"), True)
